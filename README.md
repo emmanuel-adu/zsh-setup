@@ -61,6 +61,7 @@ By sourcing these files, they are loaded and executed in the order they are sour
 
 #### environmental file 
 
+```
 This file could be used to set environment variables, such as the PATH or other variables that are used by other scripts or programs. Will include things such as
 - Path to your oh-my-zsh installation
 - NVM (Node Version Manager) setup
@@ -68,22 +69,28 @@ This file could be used to set environment variables, such as the PATH or other 
 - Java package manager setup
 - aws
 - proxy
+```
 
 
 #### theme file 
 
+```
 This file would contain the configuration for the theme of your shell, like color schemes, prompt, etc.
+```
 
 #### oh-my-zsh
-This file would contain the configuration for Oh-My-Zsh, like the plugins and themes that you want to use.
 
+```
+This file would contain the configuration for Oh-My-Zsh, like the plugins and themes that you want to use.
 - This file should always come before your plugins as 
+```
 
 #### plugins
+```
 This file would contain the configuration for additional plugins that you want to use with Oh-My-Zsh.
+```
 
 #### aliases
+```
 This file would contain the configuration for aliases, which are shortcuts for frequently used commands.
-
-
-
+```
