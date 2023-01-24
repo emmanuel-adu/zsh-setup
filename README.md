@@ -3,7 +3,7 @@
 The repository is dedicated to optimizing and streamlining the setup of the Zsh (Z Shell) shell environment by destructing your .zshrc file into smaller files. 
 
 - [Software Installation](#Software-installation)
-- [Organizing zshrc file](#Organizing-.zshrc-file)
+- [Organizing zshrc file](#Organizing-zshrc-file)
 - [Sourcing Files](#Sourcing-files)
 
 ## Software installation
@@ -18,7 +18,7 @@ Before starting you should have the following Brew Formula packages. Packages ca
 
 For a great guide on other softwares to include I recommend reading this article on [How to Set Up Your Mac for Web Development](https://betterprogramming.pub/how-to-set-up-your-macbook-for-web-development-in-2021-a7a1f53f6462)
 
-## Organizing .zshrc file
+## Organizing zshrc file
 
 After installing the above packages, you will find a .zshrc hidden configuration file within your home directory. You can access the file by running your text editor (vim), or visual text editor (vscode) to open the file:
 
