@@ -1,10 +1,12 @@
 # zsh-setup
 
-The repository is dedicated to optimizing and streamlining the setup of the Zsh (Z Shell) shell environment by destructing your .zshrc file into smaller files. Example of the the files are in this repo.
+The repository is dedicated to optimizing and streamlining the setup of the Zsh (Z Shell) shell environment by destructing your .zshrc file into smaller files. 
 
 - [Software Installation](#Software-installation)
 - [Organizing zshrc file](#Organizing-zshrc-file)
 - [Sourcing Files](#Sourcing-files)
+
+`Uploaded my own local setup for guidance.`
 
 ## Software installation
 
