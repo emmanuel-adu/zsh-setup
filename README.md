@@ -6,7 +6,7 @@ The repository is dedicated to optimizing and streamlining the setup of the Zsh 
 
 If on MacOS (and Linux) I recommend using Homebrew as your as your package manager. It makes it easy to install and manage a wide variety of command-line tools and utilites. 
 
-Before starting you should have the following Brew Formula packages. Packages can be installed by running the following command `brew install <package_name>:
+Before starting you should have the following Brew Formula packages. Packages can be installed by running the following command `brew install <package_name>`:
 - zsh
 - zsh-autosuggestions
 - zsh-syntax-highlighting
@@ -16,12 +16,12 @@ For a great guide on other softwares to include I recommend reading this article
 
 ## Organizing .zshrc file
 
-After installing the above packages, you will find a .zshrc hidden configuration file within your home directory. You can access the file by running your text editor (vim), or visual text editor (vscode) to open the file, example
+After installing the above packages, you will find a .zshrc hidden configuration file within your home directory. You can access the file by running your text editor (vim), or visual text editor (vscode) to open the file:
 
-- vscode `code .zshrc`
-- vim `vim .zshrc`
+- vscode: `code .zshrc`
+- vim: `vim .zshrc`
 
-You should see a huge intemediating file with alot of blurb. Lets organize that!
+You should see an intimedating file with alot of blurb. Lets organize that!
 
 ## Sourcing files
 
@@ -53,7 +53,7 @@ touch ~/.zsh/aliases.zsh
 
 ### Purpose of each file
 
-By sourcing these files, they are loaded and executed in the order they are sourced, allowing you to separate your configuration into different sections and to easily understand and manage it. I recommend always sourcing your environmental files first.
+By sourcing these files, they are loaded and executed in the order they are sourced, allowing you to separate your configuration into different sections. I recommend always sourcing your environmental files first.
 
 #### environmental file 
 
