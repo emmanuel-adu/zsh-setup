@@ -62,7 +62,8 @@ By sourcing these files, they are loaded and executed in the order they are sour
 #### environmental file 
 
 ```
-This file could be used to set environment variables, such as the PATH or other variables that are used by other scripts or programs. Will include things such as
+This file could be used to set environment variables, such as the PATH or other variables that are used by other scripts or programs. Will include things such as:
+
 - Path to your oh-my-zsh installation
 - NVM (Node Version Manager) setup
 - Conda python setup
@@ -82,6 +83,7 @@ This file would contain the configuration for the theme of your shell, like colo
 
 ```
 This file would contain the configuration for Oh-My-Zsh, like the plugins and themes that you want to use.
+
 - This file should always come before your plugins as 
 ```
 
