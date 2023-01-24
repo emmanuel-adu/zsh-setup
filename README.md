@@ -2,6 +2,8 @@
 
 The repository is dedicated to optimizing and streamlining the setup of the Zsh (Z Shell) shell environment by destructing your .zshrc file into smaller files. 
 
+- [Software Installation](#Software-installation)
+
 ## Software installation
 
 If on MacOS (and Linux) I recommend using Homebrew as your as your package manager. It makes it easy to install and manage a wide variety of command-line tools and utilites. 
